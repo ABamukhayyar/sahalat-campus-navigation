@@ -50,10 +50,10 @@ Our testing revealed specific usability flaws which we fixed in the final iterat
     * *Fix:* Added bold red warning text and visual cues for "University Credentials".
 
 ## 📱 Screenshots
-![Login Page](Screenshot 2025-12-07 210248.png)
-![Bus Schedule Map](./Screenshot 2025-12-07 210502.png)
-![Parking Reservation Page](./Screenshot 2025-12-07 210502.png)
-![Profile Page](./Screenshot 2025-12-07 210524.png)
+![Login Page](LoginPage.png)
+![Bus Schedule Map](BusMap.png)
+![Parking Reservation Page](ParkingGridPage.png)
+![Profile Page](ProfilePage.png)
 ## 👥 The Team
 * **Abdullah Bamukhayyar**
 * Abdulmalik Alsaleh
