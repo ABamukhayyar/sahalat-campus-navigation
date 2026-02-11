@@ -43,7 +43,7 @@ We tested the high-fidelity prototype with 10 participants and tracked quantitat
 #### 🔄 Design Evolution (Based on Testing)
 Our testing revealed specific usability flaws which we fixed in the final iteration:
 1.  **The Logout Error:** 50% of users tried to logout via "Settings" instead of "Profile".
-    *Fix:* Added a redundant Logout button in the Settings menu to match user mental models.
+    **Fix:* Added a redundant Logout button in the Settings menu to match user mental models.
 2.  **Map Interaction:** 30% of users tried to zoom in on the Bus Map, which was static.
     *Fix:* Enabled pinch-to-zoom gestures on all map interfaces.
 3.  **Login Friction:** Users frequently entered personal emails instead of KSU emails.
